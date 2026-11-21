@@ -8,7 +8,6 @@ A modern 3D nature simulation built with **OpenGL 3.3 Core**, **GLEW**, **GLFW**
 2. Go to **File -> Open...** and select `nature3d.cbp` (or double-click `nature3d.cbp` in Windows Explorer).
 3. In the toolbar, ensure the target is set to **Debug** or **Release**.
 4. Press **F9** (or click **Build and run** ▶).
-5. The application will compile cleanly with 0 errors and run immediately!
 
 ---
 
