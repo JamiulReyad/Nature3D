@@ -1,9 +1,7 @@
+HEAD
 # 3D Dynamic Nature Simulation
-
 A modern 3D nature simulation built with **OpenGL 3.3 Core**, **GLEW**, **GLFW**, and **GLM**, designed and configured to build and run seamlessly in **Code::Blocks** on Windows.
-
 ---
-
 ## 🚀 How to Run in Code::Blocks
 
 1. Open **Code::Blocks**.
